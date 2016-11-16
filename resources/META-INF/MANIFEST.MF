@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: PackerNg Executable Jar
+Implementation-Version: 1.0.7-SNAPSHOT
+Description: This is PackerNg executable Jar.
+Main-Class: com.mcxiaoke.packer.helper.PackerNg
+

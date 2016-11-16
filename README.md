@@ -4,7 +4,7 @@
  
 Fork https://github.com/mcxiaoke/packer-ng-plugin
 
-支持更多命令
+## 支持更多命令
 
 ```shell
                            .-'      '-. 
@@ -43,4 +43,8 @@ Usage: java -jar PackerNg-x.x.x.jar apkFile [outputDir] --c channelname1 channel
       for multiple channels form marketFile.txt
       (These are to be construed as commentary which start with #)
       
-```shell
+```
+
+## 配合自动流程
+
+https://github.com/w446108264
